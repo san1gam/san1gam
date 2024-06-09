@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sangam
+- 👋 Hi, I’m sangam
 - 👀 I’m interested in science tech and programming field
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on physicology of human beheviour speacilly girls
